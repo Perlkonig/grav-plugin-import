@@ -1,13 +1,14 @@
 name: Import
 version: 1.1.0
 description: "Allows importing of user-defined YAML and JSON files to facilitate custom actions/settings"
+# Fork of https://github.com/Deester4x4jr/grav-plugin-import
 icon: paperclip
 author:
-  name: SquirrelFaktory
-  email: josh@desherlia.net
+  name: Perlkonig
+  email: ?
   # url: 
 keywords: plugin, import, yaml, json, files
-homepage: https://github.com/Deester4x4jr/grav-plugin-import
-bugs: https://github.com/Deester4x4jr/grav-plugin-import/issues
+homepage: https://github.com/Perlkonig/grav-plugin-import
+bugs: https://github.com/Perlkonig/grav-plugin-import/issues
 demo: https://perlkonig.com/demos/import
 license: MIT
